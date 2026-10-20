@@ -1,0 +1,15 @@
+title: Zeynep Canan Vural
+email: zeynepcananvural@gmail.com
+description: >-
+  M.A. student in Interdisciplinary Studies of the Middle East at Freie Universität Berlin.
+  Sociology, social movements, gender politics in Turkey, and digital humanities.
+author: Zeynep Canan Vural
+baseurl: ""
+url: "https://zeynepcv.github.io"
+theme: minima
+header_pages:
+  - cv.md
+  - writing.md
+minima:
+  social_links:
+    github: zeynepcv
